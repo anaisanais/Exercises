@@ -26,7 +26,7 @@ public class Ciphering {
     static String CTRTextIV = "770b80259ec33beb2561358a9f2dc617";
 
     public static void main (String[] args) {
-        String hello = "Just test again GIt";
+        String hello = "Just test test test GIt";
         //String CBCText = "28a226d160dad07883d04e008a7897ee2e4b7465d5290d0c0e6c6822236e1daafb94ffe0c5da05d9476be028ad7c1d81";
         //String CBCText = "b4832d0f26e1ab7da33249de7d4afc48e713ac646ace36e872ad5fb8a512428a6e21364b0c374df45503473c5242a253";
         //String CBCTextB= "28a226d160dad07883d04e008a7897ee";
